@@ -1,5 +1,9 @@
 Welcome! My name is Allan Ruivo Wildner, and this profile is intended to present my portfolio of personal projects. Here, you will find the projects I have developed throughout my journey of learning and professional growth in the field of technology.
 
+# Contacts
+- [LinkedIn](https://www.linkedin.com/in/allan-ruivo)
+- Email: allanruivo@outlook.com
+
 # Projects
 - [1 - Data from IBGE using airflow + EC2 + docker + streamlit](https://github.com/a-ruivo/data-from-ibge-using-airflow-ec2-docker-streamlit)
 - [2 - MTG cards price via Scryfall API](https://github.com/a-ruivo/mtg-cards-price-via-scryfall-api)
