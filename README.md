@@ -1,7 +1,7 @@
 Welcome! My name is Allan Ruivo Wildner, and this profile is intended to present my portfolio of personal projects. Here, you will find the projects I have developed throughout my journey of learning and professional growth in the field of technology.
 
-# Contacts
-- [LinkedIn](https://www.linkedin.com/in/allan-ruivo)
+# Contact
+- [LinkedIn](https://www.linkedin.com/in/allanruivo)
 - Email: allanruivo@outlook.com
 
 # Projects
