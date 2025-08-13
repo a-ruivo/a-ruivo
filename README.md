@@ -127,7 +127,8 @@ A **Python virtual environment** is an isolated folder that lets you manage depe
 - `git push <remote> --delete <branch>` — Deletes a remote branch.  
 - `git fetch` — Downloads changes from the remote repository without merging.  
 - `git pull` — Fetches and merges changes from the remote repository into the current branch.  
-- `git rebase <target-branch>` — Reapplies commits on top of another branch.  
+- `git rebase <target-branch>` — Reapplies commits on top of another branch.
+- `git checkout <commit_id> -- <arquivo>` - Undo changes in a specific file.  
 - `git restore --staged <file1> <file2>` — Unstages files that were added with `git add`.
 </details>
 <details>
