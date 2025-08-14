@@ -285,8 +285,40 @@ To deploy an EC2 instance using **Terraform**, refer to the [main.tf](project1/i
 
 **Streamlit** is an open-source Python framework that allows you to quickly build and share interactive web apps for data science and machine learning projects using simple Python scripts.
 
-- `pip install streamlit psycopg2-binary plotly` — Install streamlit.
-> Most configurations need to be done in the browser.
+Installation
+- `pip install streamlit` — Installs Streamlit.
+  > Some configurations may need to be done in the browser.
+Visualization and Charts
+- `plotly` and `matplotlib` — Libraries for building charts.
+- `plotly_chart` — Displays interactive charts created with Plotly.
+- `PIL` — Library used for image manipulation and adding icons to charts.
+State and Configuration
+- `session_state['variable']` — Stores the application state, allowing data to persist across user interactions.
+- `set_page_config` — Configures the page title, layout, and icon.
+Interface and Navigation
+- `sidebar` — Creates elements in the side navigation menu.
+- `columns` — Creates columns in the interface.
+- `expander` — Creates expandable sections with additional content.
+- `header` — Displays titles in the interface.
+Content Display
+- `image` — Displays images.
+- `markdown` — Displays formatted text using Markdown.
+- `metric` — Displays highlighted metrics.
+Interactivity
+- `button` — Creates interactive buttons.
+- `selectbox`, `multiselect`, `slider` — Implement filters and sorting options.
+- `text_input` — Captures text input from the user.
+- `number_input` — Captures numeric input from the user.
+- `form` — Creates interactive forms.
+- `file_uploader` — Allows users to upload files.
+- `data_editor` — Allows users to edit data in an interactive table.
+Messages and Control
+- `warning` — Displays warning messages.
+- `success` — Displays success messages.
+- `error` — Displays error messages.
+- `stop` — Stops script execution when a specific condition is met.
+Data Manipulation
+- `pandas` — Used for reading and manipulating data (CSV, Excel, filtering, sorting, aggregation).
 </details>
 <details>
 
