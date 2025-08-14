@@ -267,20 +267,7 @@ To deploy an EC2 instance using **Terraform**, refer to the [main.tf](project1/i
 - `docker exec -it docker-airflow-webserver-1 airflow dags list-import-errors` — Check the import errors.
 </details>
 <details>
-
-<summary> Jenkins </summary>
-
-**Jenkins** is an open-source automation server that helps developers build, test, and deploy their software continuously. In this project, we will only use jenkins to perform a manual execution of the airflow dags.
-
-- `sudo cat /var/lib/jenkins/secrets/initialAdminPassword` — Check the initial admin password.
-- `docker exec docker-jenkins-1 cat /var/jenkins_home/secrets/initialAdminPassword` — In docker.
-</details>
-<details>
-
-<summary> Metabase </summary>
-</details>
-<details>
-
+  
 <summary> Streamlit </summary>
 
 **Streamlit** is an open-source Python framework that allows you to quickly build and share interactive web apps for data science and machine learning projects using simple Python scripts.
@@ -319,6 +306,15 @@ Messages and Control
 - `stop` — Stops script execution when a specific condition is met.
 Data Manipulation
 - `pandas` — Used for reading and manipulating data (CSV, Excel, filtering, sorting, aggregation).
+</details>
+<details>
+
+<summary> Jenkins </summary>
+
+**Jenkins** is an open-source automation server that helps developers build, test, and deploy their software continuously. In this project, we will only use jenkins to perform a manual execution of the airflow dags.
+
+- `sudo cat /var/lib/jenkins/secrets/initialAdminPassword` — Check the initial admin password.
+- `docker exec docker-jenkins-1 cat /var/jenkins_home/secrets/initialAdminPassword` — In docker.
 </details>
 <details>
 
