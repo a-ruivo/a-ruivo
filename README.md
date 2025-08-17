@@ -7,7 +7,7 @@ Welcome! My name is Allan Ruivo Wildner, and this profile is intended to present
 # Projects
 - [1 - Data from IBGE using airflow + EC2 + docker + streamlit](https://github.com/a-ruivo/data-from-ibge-using-airflow-ec2-docker-streamlit)
 - [2 - MTG cards price via Scryfall API](https://github.com/a-ruivo/mtg-cards-price-via-scryfall-api)
-- [3 - Book collecion with wishlist and prices scrapping from Estante Virtual](https://github.com/a-ruivo/books-catalog)
+- [3 - Book collecion with wishlist and prices scrapping from Estante Virtual](https://github.com/a-ruivo/books_catalog)
 
 # Useful Knowledge
 
