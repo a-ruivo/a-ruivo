@@ -175,7 +175,7 @@ The **AWS CLI (Command Line Interface)** is a tool that lets you manage and auto
 
 **Amazon EC2 (Elastic Compute Cloud)** is a scalable virtual server service that allows you to run applications in the cloud. It's commonly used to host websites, run backend services, or test environments on-demand.
 
-To deploy an EC2 instance using **Terraform**, refer to the [main.tf](https://github.com/a-ruivo/data-from-ibge-using-airflow-ec2-docker-streamlit/infra/) file, which defines all necessary infrastructure as code.
+To deploy an EC2 instance using **Terraform**, refer to the [main.tf](https://github.com/a-ruivo/data-from-ibge-using-airflow-ec2-docker-streamlit/blob/main/infra/terraform/main.tf) file, which defines all necessary infrastructure as code.
 
 **Manual Steps (if needed):**
 
